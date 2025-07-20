@@ -1,0 +1,51 @@
+transaction_id,amount,location,device_type,is_fraud
+1001,6396.07,New York,Tablet,0
+1002,2452.69,Los Angeles,Mobile,0
+1003,6768.61,Chicago,Mobile,1
+1004,5906.97,New York,Mobile,1
+1005,941.48,Los Angeles,Mobile,0
+1006,5614.64,San Francisco,Desktop,0
+1007,2208.3,Chicago,Tablet,0
+1008,8095.26,New York,Laptop,0
+1009,6982.9,Miami,Tablet,0
+1010,1559.02,Miami,Mobile,0
+1011,931.99,New York,Tablet,0
+1012,8475.71,Chicago,Tablet,0
+1013,8072.25,San Francisco,Desktop,0
+1014,5364.6,Houston,Mobile,1
+1015,5522.65,San Francisco,Tablet,0
+1016,5775.63,San Francisco,Mobile,1
+1017,463.01,Los Angeles,Tablet,0
+1018,9852.29,Los Angeles,Mobile,1
+1019,3804.36,Houston,Tablet,0
+1020,1630.73,Miami,Laptop,0
+1021,6703.4,San Francisco,Mobile,1
+1022,6093.26,Los Angeles,Laptop,0
+1023,1638.21,Houston,Tablet,0
+1024,9895.29,San Francisco,Laptop,0
+1025,6847.72,New York,Laptop,0
+1026,8218.92,Miami,Desktop,0
+1027,2681.07,Los Angeles,Tablet,0
+1028,2130.2,Houston,Desktop,0
+1029,8847.41,San Francisco,Desktop,0
+1030,1433.0,Los Angeles,Laptop,0
+1031,7451.16,Chicago,Tablet,0
+1032,7471.4,Houston,Desktop,0
+1033,3623.15,Los Angeles,Desktop,0
+1034,913.64,New York,Mobile,0
+1035,1532.65,Los Angeles,Desktop,0
+1036,5966.11,Houston,Desktop,0
+1037,5960.9,Houston,Tablet,0
+1038,9710.93,New York,Mobile,1
+1039,6818.7,Chicago,Tablet,0
+1040,7687.14,Miami,Mobile,1
+1041,2938.53,Los Angeles,Desktop,0
+1042,37.44,San Francisco,Tablet,0
+1043,9719.02,Los Angeles,Mobile,1
+1044,8705.83,Miami,Laptop,0
+1045,1532.63,Los Angeles,Mobile,0
+1046,5991.45,Houston,Mobile,1
+1047,1123.12,Miami,Tablet,0
+1048,2398.33,Los Angeles,Mobile,0
+1049,861.11,Houston,Mobile,0
+1050,9779.96,Chicago,Laptop,0
